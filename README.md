@@ -9,7 +9,10 @@ A simple reproduced version of Light Field Scale and Depth Space
 <img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.jpg>
 3D keypoints detection (hotter is closer)
 
-### Description:
+### Description (for example, Lisad-1 space):
+# Step1: Extract epipolar plane image (EPI) in center view row (v=vC)
+# Step2: Construct Lisad-1 space for 3D keypoints detection (ray edge detection)
+# Step3: Find extreme points in Lisad-1 space
 
 ### References:
 [1] I. Tosic, and K. Berkner, "3D keypoints detection by light field scale-depth space analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
