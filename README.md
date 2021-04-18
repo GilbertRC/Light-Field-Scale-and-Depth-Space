@@ -7,7 +7,6 @@ Lisad-2 can be used to estimate the depth map as the ray detection (blob detecti
 
 ### Demo:
 <img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">
-<br>
 3D keypoints detection (hotter is closer)
 
 ### References:
