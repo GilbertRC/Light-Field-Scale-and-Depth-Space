@@ -6,7 +6,7 @@ A simple reproduced version of Light Field Scale and Depth Space (Lisad)
 &bull; Lisad-2 can be used to estimate the depth map as the ray detection (blob detection) in EPI.
 
 ### Demo:
-<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">
+<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp>
 3D keypoints detection (hotter is closer)
 
 ### References:
