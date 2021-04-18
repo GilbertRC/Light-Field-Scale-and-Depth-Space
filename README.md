@@ -9,6 +9,8 @@ A simple reproduced version of Light Field Scale and Depth Space
 <img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.jpg>
 3D keypoints detection (hotter is closer)
 
+### Description:
+
 ### References:
 [1] I. Tosic, and K. Berkner, "3D keypoints detection by light field scale-depth space analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
 <br>
