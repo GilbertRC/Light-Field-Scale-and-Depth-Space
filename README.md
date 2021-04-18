@@ -10,6 +10,6 @@ A simple reproduced version of Light Field Scale and Depth Space
 3D keypoints detection (hotter is closer)
 
 ### References:
-[1] I. Tosic, and K. Berkner, "3D Keypoints Detection by Light Field Scale-Depth Space Analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
+[1] I. Tosic, and K. Berkner, "3D keypoints detection by light field scale-depth space analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
 <br>
-[2] I. Tosic, and K. Berkner, "Light Field Scale-Depth Space Transform for Dense Depth Estimation," in *Proc. IEEE CVPRW*, 2014, pp. 441–448.
+[2] I. Tosic, and K. Berkner, "Light field scale-depth space transform for dense depth estimation," in *Proc. IEEE CVPRW*, 2014, pp. 441–448.
