@@ -1,9 +1,9 @@
 # Light Field Scale and Depth Space
 A simple reproduced version of Light Field Scale and Depth Space (Lisad)
 
-&bull;Lisad-1 can be used to detect 3D keypoints as the ray edge detection (edge detection) in EPI.
+&bull; Lisad-1 can be used to detect 3D keypoints as the ray edge detection (edge detection) in EPI.
 <br>
-Lisad-2 can be used to estimate the depth map as the ray detection (blob detection) in EPI.
+&bull; Lisad-2 can be used to estimate the depth map as the ray detection (blob detection) in EPI.
 
 ### Demo:
 <img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">
