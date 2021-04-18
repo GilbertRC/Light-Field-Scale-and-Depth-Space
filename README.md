@@ -7,6 +7,7 @@ Lisad-2 can be used to estimate the depth map as the ray detection (blob detecti
 
 ### Demo:
 <table>
+    Bikes_refocus<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">
     <tr>
     <td ><center>Bikes_refocus<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="400"></center></td>
     <td ><center>Bikes_refocusFFT<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="400"></center></td>
