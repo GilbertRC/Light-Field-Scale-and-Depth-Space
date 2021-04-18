@@ -6,7 +6,9 @@ Lisad-1 can be used to detect 3D keypoints as the ray edge detection (edge detec
 Lisad-2 can be used to estimate the depth map as the ray detection (blob detection) in EPI.
 
 ### Demo:
-<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">3D keypoints detection (hotter is closer)
+<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.bmp width="400">
+<br>
+3D keypoints detection (hotter is closer)
 
 ### References:
 [1] I. Tosic, and K. Berkner, "3D Keypoints Detection by Light Field Scale-Depth Space Analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
