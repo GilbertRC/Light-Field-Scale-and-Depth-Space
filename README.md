@@ -16,6 +16,6 @@ A simple reproduced version of Light Field Scale and Depth Space
 &bull; Step 3: Find extreme points in Lisad-1 space
 
 ### References:
-[1] I. Tosic, and K. Berkner, "3D keypoints detection by light field scale-depth space analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931.
+[1] I. Tosic, and K. Berkner, "3D keypoints detection by light field scale-depth space analysis," in *Proc. IEEE ICIP*, 2014, pp. 1927–1931. [link](https://ieeexplore.ieee.org/document/7025386/)
 <br>
-[2] I. Tosic, and K. Berkner, "Light field scale-depth space transform for dense depth estimation," in *Proc. IEEE CVPRW*, 2014, pp. 441–448.
+[2] I. Tosic, and K. Berkner, "Light field scale-depth space transform for dense depth estimation," in *Proc. IEEE CVPRW*, 2014, pp. 441–448. [link](https://ieeexplore.ieee.org/document/6910019)
