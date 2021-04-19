@@ -6,7 +6,7 @@ A simple reproduced version of Light Field Scale and Depth Space
 &bull; Lisad-2: for depth estimation, just as the blob detection (ray detection) in EPI.
 
 ### Demo:
-3D keypoints detection (hotter is closer)<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.jpg width="400">
+<center>3D keypoints detection (hotter is closer)<img src=https://github.com/GilbertRC/Light-Field-Scale-and-Depth-Space/blob/main/result_buddha.jpg width="400"></center>
 <br>
 3D keypoints detection (hotter is closer)
 
